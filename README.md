@@ -1,7 +1,7 @@
 |  | |
 | ----------- | ----------- |
-| <b> Nama     | Muhammad Din Al Ayubi       |
-| <b> NIM     | 312210293       |
+| <b> Nama     | Roswanda Nuraini       |
+| <b> NIM     | 312210328       |
 | <b> Kelas   | TI.22.A.3        |
 | <b> Matakuliah   | UAS Pemrograman Mobile 2      |
 
